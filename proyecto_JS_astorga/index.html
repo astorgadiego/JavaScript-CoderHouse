@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head> 
+    <meta charset="UTF-8">
+    <title>Arrays - Coderhouse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <link rel="stylesheet" href="css/estilos.css">
+    <script defer src="js/objetos.js"></script>
+    <script defer src="js/variables.js"></script>
+</head>
+<body>
+    <h1>EJECUTAR LA FUNCION </h1>
+    <h1>"compra"</h1>    
+    <p>Carga dinámica de un Array en un Combo Select.</p>
+    <article class="container">
+        <div class="parent">
+            <div>
+                <label for="selectAR">Tipo de Residencia</label>
+                <select id="selectAR" name="selectAR">
+                    <!-- <option value="" selected disabled>...</option> -->
+                </select>    
+                <label for="selectPais">País</label>
+                <select id="selectPais" name="selectPais">
+                    <!-- <option value="" selected disabled>...</option> -->
+                </select>    
+            </div>
+            <footer>
+                <button role="button" class="secondary" onclick="agregarPais()">AGREGAR PAIS</button>
+                <button role="button" class="contrast delete" onclick="buscarYeliminar()">ELIMINAR PAIS</button>
+            </footer>
+        </div>
+    </article>
+</body>
+</html>

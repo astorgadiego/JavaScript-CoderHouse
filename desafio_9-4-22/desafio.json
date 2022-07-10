@@ -1,0 +1,8 @@
+[  {"tipo": "Brocoli Congelado", "precio_kilo": 340, "imagen":"/imagenes/brocoli.jpg"},
+    {"tipo": "Cebollas Congeladas", "precio_kilo": 380,"imagen":"/imagenes/cebolla.jpg"},
+    {"tipo": "Choclo Congelado", "precio_kilo": 520, "imagen":"/imagenes/choclo-congelado.jpg"},
+    {"tipo": "Chauchas Congeladas", "precio_kilo": 280, "imagen":"/imagenes/chaucha-congelada.jpg"},
+    {"tipo": "Arandanos Congelados", "precio_kilo": 340, "imagen":"/imagenes/arandanos.jpg"},
+    {"tipo": "Frutillas Congelados", "precio_kilo": 380, "imagen":"/imagenes/frutilla-congelada.jpg"},
+    {"tipo": "Mix de Frutos Rojos Congelados", "precio_kilo": 1100, "imagen":"/imagenes/mix-de-frutos-rojos-congelados.jpg"}]
+
